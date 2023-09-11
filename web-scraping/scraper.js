@@ -21,7 +21,7 @@ async function runScraper() {
       }))
   );
 
-  // console.log(gadgets);
+  console.log(gadgets);
 
   await browser.close();
 }
