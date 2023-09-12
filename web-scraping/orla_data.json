@@ -1,0 +1,240 @@
+{
+  "title": "Orla Africa | One-stop-shop for all your electronic gadgets",
+  "products": [
+    {
+      "title": "Dell Lat. 5470 i5",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1691686814/ovqetchcht5ybmgzwa9i.jpg",
+      "price": "₦155,000"
+    },
+    {
+      "title": "Apple watch S7, 45MM",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1689371525/vqndmmsyhphjn4atd8kq.jpg",
+      "price": "₦210,000"
+    },
+    {
+      "title": "Huawei Y9 2020 —128GB",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1689323827/wdjpdfkvrh0hnfkrlcun.png",
+      "price": "₦70,000"
+    },
+    {
+      "title": "Xbox 360",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1689321112/xacptqpt5votr8ligkuu.png",
+      "price": "₦50,000"
+    },
+    {
+      "title": "Huawei 8X—128GB",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1689319175/dlxahv5ifqh9aysj7obv.png",
+      "price": "₦70,000"
+    },
+    {
+      "title": "Google Pixel 7",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1688122097/q6ljmtkt1jebgtlkmbkc.jpg",
+      "price": "₦360,000"
+    },
+    {
+      "title": "Galaxy S8- 64",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1687846621/knemtohx8f9mtylvgdqd.jpg",
+      "price": "₦95,000"
+    },
+    {
+      "title": "Google Pixel 6",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1687845895/f2vq75o1tbmgqwjkw1up.jpg",
+      "price": "₦320,000"
+    },
+    {
+      "title": "HP 840 G6 - i7",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1687734903/ki5wm9eq9y4562oxsq0t.jpg",
+      "price": "₦310,000"
+    },
+    {
+      "title": "Samsung J7",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1687592621/opokbkaxafvwnrq1ubpl.jpg",
+      "price": "₦55,000"
+    },
+    {
+      "title": "Apple Watch Series 5",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1687589635/gvndjr6fgmfq80zyuacd.jpg",
+      "price": "₦130,000"
+    },
+    {
+      "title": "Galaxy S9 Plus",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1687464588/wqvu8bz6fgwmfitembot.jpg",
+      "price": "₦115,000"
+    },
+    {
+      "title": "Lenovo T440",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1687463668/thtdjt4nhrkjbsvgvpng.jpg",
+      "price": "₦125,000"
+    },
+    {
+      "title": "PlayStation 2",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1687462649/deu0hmkbcyvtk9qcnb8t.jpg",
+      "price": "₦25,000"
+    },
+    {
+      "title": "iPhone 6 - 64GB",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1686097901/z1liyxlq1eawavvdugn2.jpg",
+      "price": "₦65,000"
+    },
+    {
+      "title": "iPhone 6s Plus",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1683963027/szhasniqcsqpcw2aseek.jpg",
+      "price": "₦90,000"
+    },
+    {
+      "title": "iPhone Xsmax - 64GB",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1683180477/dnakmpdnvwbslgvjv6vl.jpg",
+      "price": "₦235,000"
+    },
+    {
+      "title": "iPhone 13 Promax",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1683003533/exgmuxnbswzm7rrowmek.jpg",
+      "price": "₦680,000"
+    },
+    {
+      "title": "iPhone 8 Plus",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1683217387/shjarm2j0vuplrrkzx4o.jpg",
+      "price": "₦145,000"
+    },
+    {
+      "title": "iPhone 7 Plus 32GB",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1683318347/b7xpjbediezcq1zcgqzr.jpg",
+      "price": "₦110,000"
+    },
+    {
+      "title": "iPhone 11 - 64GB",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1686000783/tmkdq4ljzinanzjzc5se.jpg",
+      "price": "₦260,000"
+    },
+    {
+      "title": "iPhone 12 - 64GB",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1686416916/zejqzcxkp2xi8booxogj.jpg",
+      "price": "₦305,000"
+    },
+    {
+      "title": "iPhone 12 Promax",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1682784914/fsy7bn0xep1sznx8cbn4.jpg",
+      "price": "₦480,000"
+    },
+    {
+      "title": "11 Promax - 256GB",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1686755208/dc5npm3z9agse1feqypn.jpg",
+      "price": "₦390,000"
+    },
+    {
+      "title": "iPhone X - 64GB",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1682785306/wgh2msugb9wtx0khala8.jpg",
+      "price": "₦175,000"
+    },
+    {
+      "title": "iPhone 12 - 64GB",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1682891999/dtqrpejk4ssl2pu4gzts.jpg",
+      "price": "₦325,000"
+    },
+    {
+      "title": "Huawei Y9 2020 —128GB",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1689323827/wdjpdfkvrh0hnfkrlcun.png",
+      "price": "₦70,000"
+    },
+    {
+      "title": "Galaxy S20+ 5G",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1684045294/sdfouluhdbcq91q9n3rn.jpg",
+      "price": "₦215,000"
+    },
+    {
+      "title": "iPhone 11 Promax",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1686416371/cazlxoj88scujvgx3bse.jpg",
+      "price": "₦365,000"
+    },
+    {
+      "title": "Galaxy S9 Plus",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1687464588/wqvu8bz6fgwmfitembot.jpg",
+      "price": "₦115,000"
+    },
+    {
+      "title": "Samsung J7",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1687592621/opokbkaxafvwnrq1ubpl.jpg",
+      "price": "₦55,000"
+    },
+    {
+      "title": "Huawei 8X—128GB",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1689319175/dlxahv5ifqh9aysj7obv.png",
+      "price": "₦70,000"
+    },
+    {
+      "title": "MacBook Pro (2021)",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1683013066/ae9exqlfz4x3kibl59ud.jpg",
+      "price": "₦965,000"
+    },
+    {
+      "title": "HP 1040 G5 X360 i7",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1683148562/cthu3wng5fyf1h424c5g.jpg",
+      "price": "₦365,000"
+    },
+    {
+      "title": "MacBook Air (2017) i7",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1683305221/ykwda2hgmds639pqkvh4.jpg",
+      "price": "₦295,000"
+    },
+    {
+      "title": "HP 1040 G3 - i7",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1683956740/lb53kh6pimpdotpkavob.jpg",
+      "price": "₦205,000"
+    },
+    {
+      "title": "MacBook pro 2017 - i7",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1685908706/fufn0ae9slxaj7woawjd.jpg",
+      "price": "₦675,000"
+    },
+    {
+      "title": "HP Stream 11",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1686260438/fa3grlh9s0mvwdbbo0kb.jpg",
+      "price": "₦85,000"
+    },
+    {
+      "title": "HP 1040 G3 - i7",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1686291430/h5zrpmpisy0n0njfgkfe.jpg",
+      "price": "₦200,000"
+    },
+    {
+      "title": "MacBook Pro 20 M1",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1687125581/oh2qupz7ojaxaoqmajkz.jpg",
+      "price": "₦890,000"
+    },
+    {
+      "title": "HP EliteBook 840 G5",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1682893931/fa6xgctsiqohvi8nnlgu.jpg",
+      "price": "₦205,000"
+    },
+    {
+      "title": "HP 840 G6 - i7",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1687734903/ki5wm9eq9y4562oxsq0t.jpg",
+      "price": "₦310,000"
+    },
+    {
+      "title": "Airpods Max",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1683182003/aodr3ijovmyav7xteoeb.jpg",
+      "price": "₦450,000"
+    },
+    {
+      "title": "Apple AirPod 2",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1682850006/iwf4h2gp1pnmvjgqfbtz.jpg",
+      "price": "₦60,000"
+    },
+    {
+      "title": "Airpods Pro (2021)",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1683218785/l9acbsywesrrmawdkvxd.jpg",
+      "price": "₦115,000"
+    },
+    {
+      "title": "Apple Airpods Pro 2",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1683747889/yidjh3xxzdncdwptarkw.jpg",
+      "price": "₦175,000"
+    },
+    {
+      "title": "Apple watch Series 3",
+      "imageUrl": "https://res.cloudinary.com/dvnfazqmz/image/upload/v1683958401/deiwog7xwmgdrzhzahkn.jpg",
+      "price": "₦80,000"
+    }
+  ]
+}
