@@ -1,74 +1,23 @@
-const { parse } = require('csv-parse');
-const fs = require('fs');
-const { Queue, Worker, QueueScheduler } = require('bullmq');
+const express = require('express');
+const path = require('path');
 
-const myQueue = new Queue('foo', {
-  connection: {
-    host: 'localhost',
-    port: 6379,
-  },
+const addJobToQueue = require('./bullmq/queue');
+
+const app = express();
+const PORT = 3001;
+
+app.use(express.json());
+
+const csvFilePath = path.join(__dirname, './employment_indicators.csv');
+
+app.post('/', async (req, res) => {
+  const { userName } = req.body;
+  const data = { jobName: 'csvJob', userName, csvFilePath };
+  const job = await addJobToQueue(data);
+
+  return res.json({ jobId: job.id });
 });
 
-const extractCSVData = async () => {
-  try {
-    const result = [];
-
-    const parseData = fs
-      .createReadStream('./Employment-indicators-weekly-paid-jobs-20-days-as-at-26-September-2022-CSV.csv')
-      .pipe(
-        parse({
-          columns: true,
-        })
-      );
-    parseData.on('data', async (data) => {
-      result.push(data);
-    });
-
-    parseData.on('end', () => {
-      result.reduce((acc, item) => {
-        const key = item.Week_end;
-
-        acc[key] = acc[key] || [];
-        acc[key].push(item);
-        return acc;
-      }, {});
-    });
-    return result;
-  } catch (error) {
-    console.log(error);
-  }
-};
-const addJobs = async () => {
-  await myQueue.add('myJobName', extractCSVData);
-  // await myQueue.add('myJobName', { qux: 'baz' });
-};
-
-addJobs();
-
-const worker = new Worker('foo', async (job) => {
-  // Will print { foo: 'bar'} for the first job
-  // and { qux: 'baz' } for the second.
-  // console.log(job.data);
+app.listen(PORT, async function onListen() {
+  console.log(`Server is up and running on port ${PORT}`);
 });
-
-worker.on('completed', (job) => {
-  console.log(job);
-});
-
-worker.on('failed', (job, err) => {
-  console.log(`${job.id} has failed with ${err.message}`);
-});
-
-// const myWorker = new Worker('CSV', extractCSVData, {
-//   connection: {
-//     host: 'localhost',
-//     port: 6379,
-//   },
-// });
-
-// const scraperQueueScheduler = new QueueScheduler('CSV', {
-//   connection: {
-//     host: 'localhost',
-//     port: 6379,
-//   },
-// });
