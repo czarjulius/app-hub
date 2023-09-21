@@ -15,7 +15,7 @@ app.post('/', async (req, res) => {
   const data = { jobName: 'csvJob', userName, csvFilePath };
   const job = await addJobToQueue(data);
 
-  return res.json({ jobId: job.id });
+  return res.status(201).json({ jobId: job.id });
 });
 
 app.listen(PORT, async function onListen() {
