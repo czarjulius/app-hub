@@ -1,9 +1,0 @@
-{
-  "manifest_version": 3,
-  "name": "Focus",
-  "description": "Stop spending more than alotted time on social media",
-  "version": "1.0",
-  "action": {
-    "default_popup": "index.html"
-  }
-}
