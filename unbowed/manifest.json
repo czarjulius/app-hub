@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Unbowed",
-  "description": "Remind yourseld that you have come a long way but yet undeafeted and unbowed",
+  "description": "Remind yourself that you have come a long way but yet undeafeted and unbowed",
   "version": "1.0",
   "action": {
     "default_popup": "index.html"
