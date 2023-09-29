@@ -24,9 +24,10 @@ const playVoice = async () => {
   if ('speechSynthesis' in window) {
     var utterance = new SpeechSynthesisUtterance();
     utterance.text = text;
-    utterance.pitch = 1.3;
+    utterance.pitch = 0.2;
     utterance.volume = 3;
-    utterance.rate = 0.65;
+    utterance.rate = 0.5;
+    utterance.lang = 'en-US';
     window.speechSynthesis.speak(utterance);
   } else {
     alert("Sorry, your browser doesn't support text to speech!");
