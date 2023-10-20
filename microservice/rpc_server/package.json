@@ -1,11 +1,10 @@
 {
-  "name": "school_and_hostel_fees",
+  "name": "rpc_server",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
@@ -13,5 +12,8 @@
   "dependencies": {
     "amqplib": "^0.10.3",
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/amqplib": "^0.10.2"
   }
 }
