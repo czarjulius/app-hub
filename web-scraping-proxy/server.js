@@ -3,7 +3,7 @@ const express = require('express');
 const runScraper = require('./scraper');
 
 const app = express();
-const PORT = 8002;
+// const PORT = 8002;
 
 app.listen(PORT, async function onListen() {
   runScraper();
